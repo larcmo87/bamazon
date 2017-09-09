@@ -2,7 +2,7 @@
 
 ### The app displays all the products in a table format and then prompts the user
 ### for the item id they would like to order. 
-(/images/tablePromt1.jpg)
+(https://larcmo87.github.io/bamazon/images/tablePromt1.jpg)
 
 ### Then the user is promted for the quantity
 ### of the item the user would like to purchase.
