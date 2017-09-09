@@ -1,7 +1,10 @@
 # bamazon
 
 ### The app displays all the products in a table format and then prompts the user
-### for the item id they would like to order. Then the user is promted for the quantity
+### for the item id they would like to order. 
+(/images/tablePromt1.jpg)
+
+### Then the user is promted for the quantity
 ### of the item the user would like to purchase.
 
 ### Logic will check to see if the quantity of item being purchases is greater than or equal 
