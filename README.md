@@ -6,6 +6,7 @@
 
 ### Then the user is promted for the quantity
 ### of the item the user would like to purchase.
+![second image](https://larcmo87.github.io/bamazon/images/promt2.jpg)
 
 ### Logic will check to see if the quantity of item being purchases is greater than or equal 
 ### to the quantity of the item in the database. If the quantity is not enough then the user
