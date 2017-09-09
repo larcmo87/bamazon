@@ -4,8 +4,7 @@
 ### for the item id they would like to order. 
 ![first image](https://larcmo87.github.io/bamazon/images/tablePromt1.jpg)
 
-### Then the user is promted for the quantity
-### of the item the user would like to purchase.
+### Then the user is promted for the quantity of the item the user would like to purchase.
 ![second image](https://larcmo87.github.io/bamazon/images/promt2.jpg)
 
 ### Logic will check to see if the quantity of item being purchases is greater than or equal 
@@ -13,8 +12,7 @@
 ### recieve a console log message of *'Insufficient quantity!'*
 ![console response](https://larcmo87.github.io/bamazon/images/insufficientResponse.jpg)
 
-###Else the user will recieve
-### a console log messege thanking them for the purchase of the selected item and the order total.
+### Else the user will recieve a console log messege thanking them for the purchase of the selected item and the order total.
 ![console response](https://larcmo87.github.io/bamazon/images/consoleresponse1.jpg)
 
 ### The item's quantity in the database table will updated accordingly.
@@ -25,7 +23,7 @@
 ![after update](https://larcmo87.github.io/bamazon/images/tableAfterUpdate.jpg)
 
 
-####****************Create MySQL Table*********************
+#### ****************Create MySQL Table*********************
 DROP DATABASE IF EXISTS bamazonDB;
 
 CREATE DATABASE bamazonDB;
