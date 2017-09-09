@@ -10,6 +10,16 @@
 
 ### Logic will check to see if the quantity of item being purchases is greater than or equal 
 ### to the quantity of the item in the database. If the quantity is not enough then the user
-### recieve a console log message of *'Insufficient quantity!'*, else the user will recieve
+### recieve a console log message of *'Insufficient quantity!'*
+![console response](https://larcmo87.github.io/bamazon/images/consoleresponse1.jpg)
+
+###Else the user will recieve
 ### a console log messege thanking them for the purchase of the selected item and the order
 ### total.
+
+### The item's quantity in the database table will updated accordingly.
+### Before Update:
+![before update](https://larcmo87.github.io/bamazon/images/tableBeforeUpdate.jpg)
+
+### After Update:
+![after update](https://larcmo87.github.io/bamazon/images/tableAfterUpdate.jpg)
