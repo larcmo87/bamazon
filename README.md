@@ -23,7 +23,7 @@
 ![after update](https://larcmo87.github.io/bamazon/images/tableAfterUpdate.jpg)
 
 
-#### ****************Create MySQL Table*********************
+### ----------------Create MySQL Table----------------
 DROP DATABASE IF EXISTS bamazonDB;
 
 CREATE DATABASE bamazonDB;
